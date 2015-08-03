@@ -28,7 +28,7 @@ class ScarBot implements Runnable
 {
 	/* --------------------- EDITABLE PART ---------------------*/
 	/* Configuration */
-    private String botnick = "ScarBot";
+    	private String botnick = "ScarBot";
 	private String login = "ScarBot";
 	private String channel = "#channel_name";
 	private String admin = "admin_nickname";
