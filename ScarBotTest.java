@@ -27,8 +27,8 @@ class ScarBotTest
 		{
 			System.out.println();
 			String s = "===================== Error ====================="
-					   +"\nUsage: java ScarBotTest <server> <port> <num_bot>\n"
-					   +"=================================================\n";
+				   +"\nUsage: java ScarBotTest <server> <port> <num_bot>\n"
+				   +"=================================================\n";
 			System.out.println(s);
 			System.exit(1);
 		}
